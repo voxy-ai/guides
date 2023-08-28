@@ -1,3 +1,5 @@
+[BACK](main.md)
+
 ### Text Data Preparation for Autonomous Chat Agents
 
 Efficiently preparing text data for your autonomous chat agents is akin to meticulously arranging a conference room before a crucial meeting. The process involves methodically organizing and refining the text data to facilitate accurate and effective learning for your chat agents. Below is a succinct guide outlining actionable steps to optimize your text data for seamless interactions:
@@ -35,3 +37,5 @@ Like augmenting a room's ambiance with decorative touches, enrich text data by i
 In summary, the process of cleaning and formatting text data for autonomous chat agents parallels the creation of an organized and intelligible environment for learning. This meticulous preparation guarantees that your chat agents deliver precise and coherent responses, leading to seamless and natural interactions with users.
 
 *References: NLP best practices, Tokenization (NLTK, spaCy), Lemmatization and Stemming (WordNet), Stop Word Removal (NLTK), Language Translation APIs (Google Cloud Translation, Microsoft Translator), Text Enrichment techniques.*
+
+[BACK](main.md)

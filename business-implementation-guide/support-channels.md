@@ -1,3 +1,5 @@
+[BACK](main.md)
+
 ### Implementing Effective Support Channels for Chat Agents
 
 When it comes to deploying support channels for your chat agents, consider it as strategically designing diverse avenues for users to access guidance and assistance. The process involves crafting accessible pathways for users to engage with your chat agents and promptly address their needs. Below is a concise guide on the significance of this strategy and its operational framework:
@@ -51,3 +53,5 @@ In essence, the establishment of support channels corresponds to developing dive
 > - [ITIL Framework for IT Service Management](https://www.axelos.com/best-practice-solutions/itil)
 
 *Note: The provided response has been tailored to the user's requirements, focusing on actionable recommendations and professional language for an executive audience, while also adhering to the provided formatting and content guidelines.*
+
+[BACK](main.md)

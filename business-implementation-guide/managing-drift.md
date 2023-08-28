@@ -1,3 +1,5 @@
+[BACK](main.md)
+
 ### Managing Drift and Performance Decay in Autonomous Chat Agents
 
 When it comes to maintaining the optimal performance of your autonomous chat agents, think of it as fine-tuning an instrument for sustained excellence. Addressing drift and performance decay involves managing the gradual shifts in your chat agents' capabilities and responses as they accumulate more interactions. Here's a pragmatic guide to ensure consistent and dependable performance:
@@ -35,3 +37,5 @@ In essence, managing drift and performance decay resembles maintaining a musical
 
 [^1^]: https://platform.openai.com/docs/guides/fine-tuning
 [^2^]: https://csrc.nist.gov/publications/detail/sp/800-183/final
+
+[BACK](main.md)

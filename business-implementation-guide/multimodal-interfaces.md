@@ -1,3 +1,5 @@
+[BACK](main.md)
+
 ### Leveraging Multimodal Interfaces for Enhanced Chat Agent Communication
 
 When strategizing to enhance the communicative capabilities of your chat agents, envision equipping them with the proficiency to comprehend and respond through varied mediums. Multimodal interfaces entail empowering your chat agents to engage via voice, text, and images, mirroring the versatility of a conversational partner adept in understanding speech, textual input, and visual content. The subsequent guide expounds on the offerings of these interfaces:
@@ -30,3 +32,5 @@ Personalization resembles grasping the inclinations of an associate. Multimodal 
 Ponder this as a friend who adapts to your preferred mode of communication. Multimodal interfaces confer users the autonomy to select the modality that suits them best.
 
 In essence, multimodal interfaces entail conferring your chat agents with the competence to interact via multiple avenues, analogous to an adaptable friend who can comprehend spoken, textual, or visual input. By enabling voice, text, and image interactions, you establish an ecosystem where users can seamlessly engage with chat agents through their favored modality, thereby heightening the quality and efficacy of interactions. Just as an all-encompassing associate enriches conversations, multimodal chat agents elevate interactions by embracing the diverse communication inclinations of users.
+
+[BACK](main.md)

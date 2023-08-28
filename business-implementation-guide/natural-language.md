@@ -1,3 +1,5 @@
+[BACK](main.md)
+
 ### Enhancing Chat Agent Language Abilities
 
 To optimize the conversational capabilities of your chat agents, envision a scenario where they acquire the proficiency to engage in substantial dialogues. Natural Language Understanding (NLU) and Generation (NLG) epitomize the essential proficiencies necessary for your chat agents to effectively communicate. This succinct guide outlines the foundational aspects of these competencies.
@@ -39,3 +41,5 @@ Invoke the concept of personalization as akin to conversing with a colleague abo
 Draw parallels between augmenting vocabulary to emulate natural conversations and the progression of NLU and NLG through interaction-driven learning. As your chat agents engage with users and assimilate feedback, these competencies evolve and enhance over time.
 
 In essence, Natural Language Understanding and Generation epitomize the linguistic dexterity your chat agents cultivate to engage in dialogues that resonate naturally and meaningfully with humans. NLU enables them to decipher user intentions, while NLG empowers them to reciprocate with responses that are contextually fitting and coherent. Analogous to the fortification of friendships through effective communication, mastery of NLU and NLG renders your chat agents adept and engaging companions in delivering assistance through interactions that are both valuable and authentically human.
+
+[BACK](main.md)

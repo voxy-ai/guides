@@ -1,3 +1,5 @@
+[BACK](main.md)
+
 #### On-Premises Deployment: Taking Charge of Your Chat Agent Infrastructure
 
 In the realm of on-premises deployment, think of it as akin to owning a dedicated office building for your operations. In this scenario, you assume full ownership and management responsibilities for all requisite components—ranging from servers to hardware and software—integral to your chat agent's functionality.
@@ -38,3 +40,5 @@ In the realm of on-premises deployment, think of it as akin to owning a dedicate
 - Virtualization Technologies: [VMware](https://www.vmware.com/) | [Hyper-V](https://www.microsoft.com/en-us/cloud-platform/server-virtualization)
 
 - Capacity Planning Best Practices: [Link](https://www.techopedia.com/definition/17728/capacity-planning)
+
+[BACK](main.md)

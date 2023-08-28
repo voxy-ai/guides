@@ -1,3 +1,5 @@
+[BACK](main.md)
+
 ### Compliance with Industry Regulations
 
 When it comes to ensuring your chat agents follow the rules, think of it as playing a game where everyone must stick to the same set of rules for fair play. Compliance with industry regulations involves making sure that your chat agents operate within the guidelines and standards set by your industry and legal authorities. Here's a simple guide on why it's important and how it works:
@@ -53,3 +55,5 @@ Transparency is like explaining the rules of the game to everyone upfront. Compl
 Building trust is like being known as a reliable player who always follows the rules. Compliance helps build trust with users and stakeholders by demonstrating a commitment to ethical and lawful conduct.
 
 In essence, compliance with industry regulations is like participating in a game where everyone agrees to play by the same rules. By ensuring your chat agents adhere to legal and ethical standards, you create an environment of fairness, transparency, and trust. Just as in a well-regulated game, compliance with industry regulations ensures that your chat agents operate responsibly and provide users with interactions that are secure, respectful, and aligned with established guidelines.
+
+[BACK](main.md)

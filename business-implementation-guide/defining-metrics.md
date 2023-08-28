@@ -1,3 +1,5 @@
+[BACK](main.md)
+
 ### Evaluating Chat Agent Performance through Relevant Metrics
 
 Assessing the efficacy of your chat agents is akin to evaluating a game's success by analyzing your accumulated points. The process of defining pertinent metrics entails selecting specific measurements that facilitate comprehension of your chat agents' effectiveness and their alignment with business objectives. Here's a concise guide outlining the significance and operational aspects:
@@ -43,3 +45,5 @@ Lead generation corresponds to attracting new players to join the game. It quant
 Problem resolution is reminiscent of overcoming challenges within a game. It assesses how adeptly chat agents address user concerns or inquiries.
 
 In essence, defining pertinent metrics parallels employing a scorecard to evaluate the performance of your chat agents in the "business game." By selecting crucial measurements mirroring your goals, you attain insights into their impact, efficiency, and return on investment. Analogous to points reflecting game progress, relevant metrics empower you to monitor how chat agents contribute to fulfilling business objectives and exhibit their value.
+
+[BACK](main.md)
