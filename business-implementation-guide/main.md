@@ -1,8 +1,4 @@
-
-
-
-![alt_text](https://assets.voxy.tech/logos/LogoV.svg "VOXY Logo")
-
+<img src="https://assets.voxy.tech/logos/Symbol.png" width=100 height=100>
 
 
 ### **VOXY** AI
